@@ -64,6 +64,13 @@ tr {
   font-size: smaller;
   border: 1px solid white;
 }
+#load {
+  display: block;
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
 @media screen and (max-width: 600px){
   .d-flex{
       width: 90%;
